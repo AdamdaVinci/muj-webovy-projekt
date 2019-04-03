@@ -1,14 +1,14 @@
 # Leonardo da Vinci the best UX designer in the world
 
-**Proè by Leonardo da Vinci uspìl v dnešním svìtì jako UX designer, a jaké techniky pouíval pøi svıch náèrtcích**
+**ProÄ by Leonardo da Vinci uspÄ›l v dneÅ¡nÃ­m svÄ›tÄ› jako UX designer, a jakÃ© techniky pouÅ¾Ã­val pÅ™i svÃ½ch nÃ¡ÄrtcÃ­ch**
 
-Leonardo byl velmi zdatnı v nákresech a skeèích protoe miloval zdokonalování svıch schopností u od útlého dìtství. Jeho otec byl notáø a mìl pøístup k velkému mnoství papíru, které si Leo vdycky odebral a odešel kreslit. Nebylo pochyb o tom, e by nebyl talentovanı, ale z velké èásti se jeho schopnosti vyvinuly díky kadodenním cvièením. 
+Leonardo byl velmi zdatnÃ½ v nÃ¡kresech a skeÄÃ­ch protoÅ¾e miloval zdokonalovÃ¡nÃ­ svÃ½ch schopnostÃ­ uÅ¾ od ÃºtlÃ©ho dÄ›tstvÃ­. Jeho otec byl notÃ¡Å™ a mÄ›l pÅ™Ã­stup k velkÃ©mu mnoÅ¾stvÃ­ papÃ­ru, kterÃ© si Leo vÅ¾dycky odebral a odeÅ¡el kreslit. Nebylo pochyb o tom, Å¾e by nebyl talentovanÃ½, ale z velkÃ© ÄÃ¡sti se jeho schopnosti vyvinuly dÃ­ky kaÅ¾dodennÃ­m cviÄenÃ­m. 
 
-Leo miloval svého zákazníka a jen pro to, aby mìl zákazník co nejlepší pocit a aby se vrátil pøíštì za Leem zpìt, udìlal cokoliv. Udìlal by klidnì nìkolik vızkumù znovu a znovu jen pro potìšení zákazníka.
+Leo miloval svÃ©ho zÃ¡kaznÃ­ka a jen pro to, aby mÄ›l zÃ¡kaznÃ­k co nejlepÅ¡Ã­ pocit a aby se vrÃ¡til pÅ™Ã­Å¡tÄ› za Leem zpÄ›t, udÄ›lal cokoliv. UdÄ›lal by klidnÄ› nÄ›kolik vÃ½zkumÅ¯ znovu a znovu jen pro potÄ›Å¡enÃ­ zÃ¡kaznÃ­ka.
 
 
 
-#### Jesus walks into a restaurant and says to the waiter: “Table for 26 please”. Confused, the waiter does a quick head count, and says “But there are only 13 of you.” Jesus replies “Yes, but we are all going to sit on the same side”. **#humor**
+#### Jesus walks into a restaurant and says to the waiter: â€œTable for 26 pleaseâ€. Confused, the waiter does a quick head count, and says â€œBut there are only 13 of you.â€ Jesus replies â€œYes, but we are all going to sit on the same sideâ€. **#humor**
 https://uxdesign.cc/leonardo-da-vinci-was-the-best-ux-designer-in-history-c8d3f3dc84ee
 
 https://medium.com/@metalpotatouk/take-a-website-design-lesson-from-leonardo-da-vinci-f751918da680
