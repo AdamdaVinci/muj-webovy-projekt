@@ -1,10 +1,11 @@
-# Leonardo da Vinci the best UX designer in the world
+﻿# Leonardo da Vinci the best UX designer in the world
 
 **Proč by Leonardo da Vinci uspěl v dnešním světě jako UX designer, a jaké techniky používal při svých náčrtcích**
 
 Leonardo byl velmi zdatný v nákresech a skečích protože miloval zdokonalování svých schopností už od útlého dětství. Jeho otec byl notář a měl přístup k velkému množství papíru, které si Leo vždycky odebral a odešel kreslit. Nebylo pochyb o tom, že by nebyl talentovaný, ale z velké části se jeho schopnosti vyvinuly díky každodenním cvičením. 
 
 Leo miloval svého zákazníka a jen pro to, aby měl zákazník co nejlepší pocit a aby se vrátil příště za Leem zpět, udělal cokoliv. Udělal by klidně několik výzkumů znovu a znovu jen pro potěšení zákazníka.
+
 
 
 
