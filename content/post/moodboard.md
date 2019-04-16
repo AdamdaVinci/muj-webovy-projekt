@@ -4,7 +4,14 @@ date: 2019-04-15
 tags: 
     - leonardodavinci - notebook - moodboard - UX - design -webdesign - userexperiencedesign - layout
 ---
+## Úvod
+Cílem tohoto článku, je spolupráce na základě poukázání na různé pohledy tvůrců tohoto projektu.  Každý máme asi o budoucnosti a vzhledu této webové stránky jiný názor. Nicméně díky tomuto článku své názory můžeme různě nakombinovat a z nápadů druhých vytvořit tu nejlepší stránku.
 
+První moodboard ukazuje vzhled a funkce již reálně vypadající stránky. Ukazuje, jak by asi stránka mohla ve finále vypadat.
+
+Druhý moodboard poukazuje hlavně na vizuální část projektu a na to, jak hezky může projekt vypadat. Renesance je z tohoto moodboardu jen cítit.
+
+Třetí moodboard je spíše než představením finálního produktu představení jednotlivých částí, které by šlo do projektu zakomponovat.
 #### První moodboard na náš projekt.
 *od: Adam*
 <div class="canva-embed" data-design-id="DADW8zM7cXU" data-height-ratio="0.4815" style="padding:48.1481% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>Leonardo da Vinci od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;AdamMelnicak?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Adam</a>
@@ -31,6 +38,7 @@ tags:
 
 #### Třetí moodboard.
 *od: Štěpán*
+<div class="canva-embed" data-design-id="DADXUgbjlNU" data-height-ratio="0.8000" style="padding:80.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXUgbjlNU&#x2F;view?utm_content=DADXUgbjlNU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Leonardo da Vinci</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;StepanSindelka?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Štěpán Šindelka</a>
 
 
 ***
