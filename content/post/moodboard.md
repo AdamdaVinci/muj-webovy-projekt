@@ -5,16 +5,30 @@ tags:
     - leonardodavinci - notebook - moodboard - UX - design -webdesign - userexperiencedesign - layout
 ---
 ## Úvod
-Cílem tohoto článku, je spolupráce na základě poukázání na různé pohledy tvůrců tohoto projektu.  Každý máme asi o budoucnosti a vzhledu této webové stránky jiný názor. Nicméně díky tomuto článku své názory můžeme různě nakombinovat a z nápadů druhých vytvořit tu nejlepší stránku.
+Cílem tohoto článku je spolupráce na základě poukázání na různé pohledy tvůrců tohoto projektu. Každý máme asi o budoucnosti a vzhledu této webové stránky jiný názor. Nicméně díky tomuto článku své názory můžeme různě nakombinovat a z nápadů druhých vytvořit tu nejlepší stránku.
 
 První moodboard ukazuje vzhled a funkce již reálně vypadající stránky. Ukazuje, jak by asi stránka mohla ve finále vypadat.
 
 Druhý moodboard poukazuje hlavně na vizuální část projektu a na to, jak hezky může projekt vypadat. Renesance je z tohoto moodboardu jen cítit.
 
 Třetí moodboard je spíše než představením finálního produktu představení jednotlivých částí, které by šlo do projektu zakomponovat.
+
+***
+
 #### První moodboard na náš projekt.
 *od: Adam*
-<div class="canva-embed" data-design-id="DADW8zM7cXU" data-height-ratio="0.4815" style="padding:48.1481% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>Leonardo da Vinci od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;AdamMelnicak?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Adam</a>
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/66iHpFth1uxLNL7L7"
+  data-title="Leonardo Da Vinci, UX Designer"
+  data-description="5 new photos · Album by Natálie">
+  <img data-src="https://lh3.googleusercontent.com/0eMS2pW39-DEHaEiEG8ekyS-nOdmX2gKf8o1t89BaoPwp-9f679oD4L9P7UQv7PrvKkkjHh16nq9SoKHD7yaDa-_16Kwd-lOfam2V18UA4RRLDclHXQHGsX2NpXzcxU7t1lBKV2aqQ=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/sZ2s2cDYC5vZ09jWKOfgS9_D9qI7pk-g4jglZunaB5JWIsx6avzlzLfkcMyN7T3UZ0HsOgIRSX1cHlvf8ixwve_Dyq79DgS2yqCWcxaOy1TtzqsOLHi94p9bdwM3cK52qI4qlXa0_w=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/QZ7e-P4V4AiKFPR8_w88CODcDhVwU0NRR3S_xNoJpJ0zJietPZIk1xFlIHIcwJGwGBw5A7wMuHBcLKwiwaJtb9xzeqfBjpP6uAfXqe-_eJQj6FpsyYPaUhcGWdfD3iLRKU5mU0jOhQ=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/QO4qKYTTB15gzeRSH0wf1AsKubVBD_K05YgA7RXce_vRoIgxX2E-Fg5R-gPhhZUWE2353sUxvjQkN_jAwMSQrU-lVvdxYjkWaZvwm2km-1_CYDQuwwwQiXAUSVz0aJDcMOPDKfwCFA=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/ls4mIVbDpdtR_OeO3l-B1WUHHMIBzexeEMZFB8LFLSZc6WFhgGvTTklra_t-50aYPAPVNANq8LeF4JZznw1wGHXewlHYJIUmDKaqZX-oLwD0jx-Ci_74ePr0MGMPoJ6hVeS-h9Vtzg=w1920-h1080" src="" alt="" />
+</div>
 
 ***
 
@@ -51,7 +65,5 @@ Třetí moodboard je spíše než představením finálního produktu představe
   <img data-src="https://lh3.googleusercontent.com/b0xem0kyjiWfn_1haI01mbHjXs1QdssTiyGDHfnluvKTzBwUWXNHUirdJ60WaR54LGZ95Hb0iQUD8NfiGa7cEuEeTvj0uve_XJm6PGCzXye2Itz18K9FgpducjjrpMusatelDGkw_g=w1920-h1080" src="" alt="" />
   <img data-src="https://lh3.googleusercontent.com/t_ZNZMqmSFu9kmmxcc6DX3wolzBADXRNe43UCdovVEccoO2PeVdkY4mnWwSatXRK3YN6E1i-9tHsoJg37yoBKkUf9KPUMhtez0HLMlPyfQQ3DsNBC8hY9ovSSY4JlkGbeXIKocUuZw=w1920-h1080" src="" alt="" />
 </div>
-
-
 
 ***
