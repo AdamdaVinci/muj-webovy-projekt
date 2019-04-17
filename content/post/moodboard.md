@@ -14,6 +14,7 @@ Druhý moodboard poukazuje hlavně na vizuální část projektu a na to, jak he
 Třetí moodboard je spíše než představením finálního produktu představení jednotlivých částí, které by šlo do projektu zakomponovat.
 #### První moodboard na náš projekt.
 *od: Adam*
+
 <div class="canva-embed" data-design-id="DADW8zM7cXU" data-height-ratio="0.4815" style="padding:48.1481% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>Leonardo da Vinci od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;AdamMelnicak?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Adam</a>
 
 ***
@@ -38,7 +39,19 @@ Třetí moodboard je spíše než představením finálního produktu představe
 
 #### Třetí moodboard.
 *od: Štěpán*
-<div class="canva-embed" data-design-id="DADXUgbjlNU" data-height-ratio="0.8000" style="padding:80.0000% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADXUgbjlNU&#x2F;view?utm_content=DADXUgbjlNU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Leonardo da Vinci</a> od <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;StepanSindelka?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Štěpán Šindelka</a>
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
+<div class="pa-embed-player" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/MCzt8sTujVgqxxuJA"
+  data-title="Projekt NAMI"
+  data-description="6 new photos · Album by Štěpán Šindelka">
+  <img data-src="https://lh3.googleusercontent.com/BQWWbIGLhv9hS7NaHNHSVtKEHci0rixEceDyGe4fUBUzpsm4CYEchhiFmQQkoLJfHv4JXEuFboaBy5n2iw5v07gYitUwnsyTO5slDoMxMe8i-a3dqKnjTCzrG_WjXhP9_EzoDTIaPQ=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/PRUdCcBO6k43r1bKk5tw97QVsjR5eqBdWFKE93SgTc7fgRP9hWdyJ-8Ua6eLJQI9dzMhv5zhuXW3zZMDA98aTwZqAHSl5mUb976UGfnjjF_JvPUAZZ1IPhGf0OiKxjJvovhrPxOfSg=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/zt-sg74EaYo5EW71FIdGRju4zEtmpDoRXwgsGVHdyExh4Zz5AlkHfy2hyuFYW2ubpBM_z5qTDddFilziCnQVDIrz3_V3GBImZeNiANnqRuv_zXnQpCTSqPiuH4gBrbyDfsq_xkAnNg=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/8_eomtUd814ogxhFZbIY6ev2FoAseVew6e3hzp2Uma_dseemXd_5ag9ILZRFfsr9I-qp1Jeql-bABhWBusN8uji9vx_4vC-p2WRRQTLXhXbW_sToVwqzMSN6HsREH7lGMKuZYQkk1w=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/fbBErH7dWvY6JKbyk5ybgRt4T9BlhLEZWmDEwG7YAprJQg8GIKzKayt_vwNJM4lMElEtzBrqdSn_PQTrSxbaFTsYmQZycaAW7miU7nw3VeyAwt-UFcSvjKGHvq9s-Gv1K_9L2yXyPg=w1920-h1080" src="" alt="" />
+  <img data-src="https://lh3.googleusercontent.com/PeO2I6Y-scA3BWX0ovQNDpSAYgklQsVRjTb3UB6jsN-9_ZzvKSpcrSe6IB14Qk4wZ_1zVrlO7i2YpS0rof5nt7Nma7PHtRElF7qD2ySsDJvMGohKExEfLygkrvRxqY-vwSuWldSjbw=w1920-h1080" src="" alt="" />
+</div>
 
 
 ***
