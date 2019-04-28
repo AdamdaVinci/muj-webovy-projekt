@@ -1,3 +1,5 @@
+* {font-family: "Georgia", serif;}
+body {background-color:#C60D25;}
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
@@ -6,6 +8,7 @@
 
 header {
   padding-top:25%;
+  
 
 }
 
@@ -17,7 +20,7 @@ footer {
   float: left;
   width: 70%;
   padding: 0px 10px;
-  padding-top:75%;
+  padding-top:30%;
   font-size: 20px;
 }
 
@@ -33,49 +36,21 @@ aside {
   padding-top:20px;
 }
 
-#obr {
-  height:100%;
-  z-index:-1;
-  top:75px;
-  right:250px;
-  position:absolute;
-  
-}
-#barva-1 {
-  width:510px;
-  height:520px;
-  z-index:-1;
-  top:65px;
-  right:255px;
-  position:absolute;
-  background-color: black;
-
-}
-#barva {
-  width:500px;
-  height:100%;
-  z-index:-1;
-  top:0;
-  right:0;
-  position:fixed;
-  background-color: #C60D25;
-
-}
 
 
 nav ul {
+
   display:block;
   margin-top:50px;
 }
 
 nav li {
+
   margin-top:20px;
-  font-size:20px;
+  font-size:18px;
   list-style:none;
   color:#C60D25;
 }
-
-nav li.srdce {position:absolute;bottom:5%;}
 
 nav a {text-decoration: none; color:white;}
 nav a.hover {
