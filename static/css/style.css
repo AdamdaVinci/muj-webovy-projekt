@@ -1,25 +1,39 @@
 * {font-family: "Georgia", serif;}
+
+
+header {
+  background:#C60D25;
+  color:#ffffff;
+  min-height:70px;
+  border-bottom:black 3px solid;
+  position:absolute;
+  width:100%;
+  left:0;
+  top:0;
+  padding-left:15%;
+}
+
+
 .wrapper {
-  margin: 30px auto;
+  margin:auto;
   max-width: 800px;
   margin-left:13%;
 }
 
-header {
-  padding-top:25%;
 
-
-}
 
 footer {
+  margin: 30px auto;
   clear: both;
+  width:70%;
+  padding-top:5px;
 }
 
 .page {
   float: left;
   width: 70%;
   padding: 0px 10px;
-  padding-top:75%;
+  padding-top:15%;
   font-size: 20px;
 }
 
@@ -33,35 +47,6 @@ aside {
   right:0;
   background-color: black;
   padding-top:20px;
-}
-
-#obr {
-  height:100%;
-  z-index:-1;
-  top:75px;
-  right:250px;
-  position:absolute;
-  
-}
-#barva-1 {
-  width:510px;
-  height:520px;
-  z-index:-1;
-  top:65px;
-  right:255px;
-  position:absolute;
-  background-color: black;
-
-}
-#barva {
-  width:500px;
-  height:100%;
-  z-index:-1;
-  top:0;
-  right:0;
-  position:fixed;
-  background-color: #C60D25;
-
 }
 
 nav ul {
@@ -80,8 +65,8 @@ nav li {
 nav li.srdce {position:absolute;bottom:5%;}
 
 nav a {text-decoration: none; color:white;}
-nav a.hover {
-  background-color: white;
+nav a:hover {
+  color: #C60D25;
 }
 
 nav .active {
