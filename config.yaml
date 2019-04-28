@@ -1,4 +1,4 @@
-title: Leonardo da Vinci the best UX designer in the world
+title: Leonardo da Vinci
 baseURL: https://confident-archimedes-336817.netlify.com/
 languageCode: cs-cz
 publishDir: public
@@ -14,6 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
+  description: UX Designer
   authors: Authors
 
