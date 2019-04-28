@@ -1,26 +1,24 @@
 .wrapper {
   margin: 30px auto;
   max-width: 800px;
-  padding: 20px;
+  margin-left:13%;
 }
 
 header {
-  padding: 30px 0 0;
-  border-bottom: solid;
+  padding-top:25%;
+
 }
 
 footer {
-  border-top: solid;
   clear: both;
 }
 
 .page {
   float: left;
   width: 70%;
-  border-left: solid;
   padding: 0px 10px;
-  margin-left:160px;
-  font-size: 25px;
+  padding-top:75%;
+  font-size: 20px;
 }
 
 aside {
@@ -28,23 +26,60 @@ aside {
   width: 160px;
   height: 100%;
   position: fixed;
-  z-index:1;
+  z-index:2;
   top:0;
   right:0;
-  background-color: #111;
+  background-color: black;
   padding-top:20px;
 }
 
-nav ul {
-  text-decoration:none;
-  padding: 6px 8px 6px 16px;
-  font-size:25px;
-  color: #818181;
-  display:block;
+#obr {
+  height:100%;
+  z-index:-1;
+  top:75px;
+  right:250px;
+  position:absolute;
+  
+}
+#barva-1 {
+  width:510px;
+  height:520px;
+  z-index:-1;
+  top:65px;
+  right:255px;
+  position:absolute;
+  background-color: black;
+
+}
+#barva {
+  width:500px;
+  height:100%;
+  z-index:-1;
+  top:0;
+  right:0;
+  position:fixed;
+  background-color: #C60D25;
+
 }
 
+
+nav ul {
+  display:block;
+  margin-top:50px;
+}
+
+nav li {
+  margin-top:20px;
+  font-size:20px;
+  list-style:none;
+  color:#C60D25;
+}
+
+nav li.srdce {position:absolute;bottom:5%;}
+
+nav a {text-decoration: none; color:white;}
 nav a.hover {
-  color: #f1f1f1;
+  background-color: white;
 }
 
 nav .active {
