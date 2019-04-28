@@ -15,7 +15,7 @@ footer {
 }
 
 .page {
-  float: right;
+  float: left;
   width: 70%;
   border-left: solid;
   padding: 0px 10px;
