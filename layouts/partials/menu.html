@@ -8,7 +8,7 @@
           <a href="{{ .URL }}">{{ .Name }}</a>
         </li>
       {{end}}
-      <li>&hearts; {{ now.Year }} {{ .Site.Params.authors }}</li>
+      <li class="srdce">  {{ .Site.Params.author1 }},  {{ .Site.Params.author2 }},  {{ .Site.Params.author3 }}  <span class="heart">&hearts;</span> {{ now.Year }} </li>
     </ul>
   </nav>
 </aside>

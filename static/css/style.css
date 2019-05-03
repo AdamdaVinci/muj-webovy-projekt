@@ -1,36 +1,60 @@
 * {font-family: "Georgia", serif;}
 
-
+body {background-color:#D3D3D3;}
 header {
-  background:#C60D25;
   color:#ffffff;
-  min-height:70px;
+  font-size:20px;
   border-bottom:black 3px solid;
   position:absolute;
   width:100%;
   left:0;
   top:0;
-  padding-left:15%;
-}
+  min-height:420px;
+  background:url('vitruvian.jpg') no-repeat 0 -200px;
+  background-size: cover;
+  text-align:center;
+  }
 
+header h1 {
+  margin-top:15%;
+  border:black 1px solid;
+  background-color:#35424a;
+  opacity:0.9;
+  width:35%;
+  margin-left:32.8%;
+  font-family: 'Mali', cursive;
+  }
+header h1 a {text-decoration:none;color:#C60D25;}
 
 .wrapper {
   margin:auto;
   max-width: 800px;
-  margin-left:13%;
+  margin-left:8%;
+  margin-top:5%;
 }
 
 
+.zkousim {
+  padding:15px;
+  background:#35424a;
+  color:#ffffff;
+  margin-bottom:10px;
 
+}
+
+.zkousim a {
+  color:#C60D25;
+  text-decoration:none;
+}
 footer {
   margin: 30px auto;
   clear: both;
-  width:70%;
   padding-top:5px;
+
 }
 
 .page {
-  float: left;
+  margin-top:40%;
   width: 70%;
   padding: 0px 10px;
   padding-top:15%;
@@ -38,31 +62,40 @@ footer {
 }
 
 aside {
-  float: right;
-  width: 160px;
-  height: 100%;
-  position: fixed;
-  z-index:2;
+  width: 100%;
   top:0;
-  right:0;
+  left:0;
+  position:absolute;
   background-color: black;
-  padding-top:20px;
+  float:left;
+  border-bottom:#C60D25 3px solid;
+ 
 }
 
 nav ul {
 
-  display:block;
-  margin-top:50px;
+  float:left;
+  display:inline;
+  padding:10px;
+  list-style:none;
 }
 
 nav li {
-
+  display:inline;
+  padding:10px;
+  list-style:none;
   margin-top:20px;
   font-size:18px;
   list-style:none;
   color:#C60D25;
 }
-nav li.srdce {position:absolute;bottom:5%;}
+nav li.srdce {position:absolute;top:0;right:5%; display:inline;color:white;
+  }
+.heart {color:#C60D25;}
+
+h2 a{color:#C60D25;text-decoration:none;}
+
+li a{color:#C60D25;text-decoration:none;}
 
 nav a {text-decoration: none; color:white;}
 nav a:hover {
