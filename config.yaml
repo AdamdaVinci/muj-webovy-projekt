@@ -2,6 +2,7 @@ title: LEONARDO DA VINCI
 baseURL: https://confident-archimedes-336817.netlify.com/
 languageCode: cs-cz
 publishDir: public
+googleAnalytics: UA-139140481-1
 
 menu:
   main:
