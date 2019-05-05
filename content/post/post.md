@@ -5,6 +5,6 @@ tags:
     - leonardodavinci - notebook
 ---
 
-Toto je prostě krásný post.
+Toto je prostě krásný příspěvek.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zwGdnCNi8Ss" frameborder="0" allow="accelerometer; 
 autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
