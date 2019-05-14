@@ -11,7 +11,7 @@ User experience design je pojem, který vznikl a začal se používat teprve v d
 
 První zastávkou v našem historickém exkurzu je starověká Čína. Místo konkrétní osoby si představíme učení Feng-šuej (složeno ze slov ,,vítr“ a ,,voda“), které se zajímalo o vztah člověka a jeho životního prostoru v čase, konkrétně o to, jak nejlépe uspořádat objekty (nebo také nejrůznější barvy či materiály) tak, aby vše dohromady navazovalo harmonický dojem a nebránilo nerušenému plynutí energie.
 
-![feng-suej](https://github.com/AdamdaVinci/muj-webovy-projekt/blob/master/static/images/koncept.jpg "Rozvrzeni feng-suej")
+![feng-suej](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/koncept.jpg "Rozvrzeni feng-suej")
 
 
 ### 500 př.n.l.: Staří Řekové a ernogomie
@@ -28,14 +28,14 @@ Posuňme se v čase do modernějšího období, konkrétně do 40. let minulého
 H. Dreyfuss, americký průmyslový inženýr, proslul svými inovativními myšlenkami, na základě kterých zcela zásadně navýšil úroveň použitelnosti a uživatelské přívětivosti ve své době velmi žádaných produktů nejrůznějšího charakteru (např. vysavač, stolní telefon nebo psací stroj). Klíčem k jeho úspěchu bylo zdařilé kombinování vědeckého, exaktního přístupu a lidovějšího přístupu alá ,,selský rozum". 
 O procesu designování prohlásil, že ,,pokud uživatel při používání produktu pocítí nějakou formu napětí či neshody, značí to neúspěch designéra. Pokud však používání produktu navozuje pocit bezpečí či pohodlí nebo uživatel díky produktu může pracovat efektivněji, znamená to, že designér ve své práci uspěl.“
 
-![henry dreyfuss hoover](https://github.com/AdamdaVinci/muj-webovy-projekt/blob/master/static/images/hoover.jpg "Dreyfussuv vysavac")
+![henry dreyfuss hoover](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/hoover.jpg "Dreyfussuv vysavac")
 
 
 ### 1966: Walt Disney
 
 Průkopníky UX designu nemusíme hledat pouze v řadách inženýrů. Stačí si uvědomit, jakým způsobem Walt Disney vybudoval svůj Disney World, a můžeme bez obav tvrdit, že i on významně přispěl svou perspektivou, jak při vývoji produktu vnímat uživatele. Své pracovníky (kterým místo engineers říkal imagineers) vedl tak, aby perfektně znali své ,,obecenstvo“, tedy diváky kreslených filmů, a aby se do nich dokázali plně vžít. Také je učil, jak sdělovat příběh skrze nejrůznější tvary, barvy a struktury. Podařilo se mu tak vytvořit bohatý fiktivní svět kreslených postav, které dnes znají všechny generace v téměř všech koutech světa.
  
- ![walt disney a imagineer](https://github.com/AdamdaVinci/muj-webovy-projekt/blob/master/static/images/disney.jpg "Walt Disney a imagineer v praci")
+ ![walt disney a imagineer](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/disney.png "Walt Disney a imagineer v praci")
 
 
 *Čerpáno z: [Careerfoundry](https://careerfoundry.com/en/blog/ux-design/the-fascinating-history-of-ux-design-a-definitive-timeline/).*
