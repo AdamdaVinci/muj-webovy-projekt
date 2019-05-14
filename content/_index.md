@@ -1,4 +1,4 @@
-﻿# Leonardo da Vinci the best UX designer in the world
+# Leonardo da Vinci the best UX designer in the world
 
 **Proč by Leonardo da Vinci uspěl v dnešním světě jako UX designer, a jaké techniky používal při svých náčrtcích**
 
@@ -9,7 +9,7 @@ Leo miloval svého zákazníka a jen pro to, aby měl zákazník co nejlepší p
 
 
 
-#### Jesus walks into a restaurant and says to the waiter: “Table for 26 please”. Confused, the waiter does a quick head count, and says “But there are only 13 of you.” Jesus replies “Yes, but we are all going to sit on the same side”. **#humor**
+#### Ježíš vstoupí do restaurace a řekne číšníkovi: „Stůl pro 26, prosím“. Číšník je zmatený, rychle počítá kolik je hostů s Ježíšem a říká: „Ale vás je jen 13.“ Ježíš odpoví: „Ano, ale všichni budeme sedět na stejné straně“. **#humor**
 https://uxdesign.cc/leonardo-da-vinci-was-the-best-ux-designer-in-history-c8d3f3dc84ee
 
 https://medium.com/@metalpotatouk/take-a-website-design-lesson-from-leonardo-da-vinci-f751918da680

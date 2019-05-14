@@ -5,4 +5,5 @@
   <p>&hearts;{{ .Site.Params.author3 }}</p>
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
   {{ .Content }}
+  {{ partial "share" . }}
 {{ end }}

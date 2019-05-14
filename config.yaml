@@ -6,10 +6,10 @@ googleAnalytics: UA-139140481-1
 
 menu:
   main:
-    - name: Homepage
+    - name: Hlavní stránka
       url: /
       weight: 15
-    - name: Archive
+    - name: Archiv
       identifier: post
       url: /post/
       weight: 20
@@ -17,7 +17,7 @@ menu:
 
 
 params:
-  description: The best renesance UX Designer
+  description: Nejlepší renesanční UX designer
   author1: Adam Melničák
   author2: Natálie Káčová
   author3: Štěpán Šindelka
