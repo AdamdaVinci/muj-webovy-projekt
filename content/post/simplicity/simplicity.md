@@ -20,7 +20,7 @@ Hlavním cílem UX designera je, aby uživatelský zážitek byl co nejostřejš
 
 > Da Vinciho díla, ačkoliv byla velmi jednoduchá, byla taktéž velmi detailní. Návštěvníci webu si pravděpodobně nevšimnou ikonky webu, na které člověk strávil celé dopoledne - stejně jako si nikdo nevšimne malého mostu a řeky vedle levého ramene Mony Lisy. Ale tyto malé detaily dodávají webu jeho úplnost.
  
-Mona: ![Mona Lisa v Iphonu který byl vyfocen](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/mona.jpg "Mona Lisa")
+![Mona Lisa v Iphonu který byl vyfocen](https://raw.githubusercontent.com/AdamdaVinci/muj-webovy-projekt/master/static/images/mona.jpg "Mona Lisa")
 
 > *zdroj: Unsplash*
 
