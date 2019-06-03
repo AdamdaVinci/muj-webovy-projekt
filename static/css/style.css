@@ -18,13 +18,17 @@ header {
 header h1 {
   margin-top:15%;
   border:black 1px solid;
-  background-color:#35424a;
+  background-color:#a80824;
   opacity:0.9;
   width:35%;
   margin-left:32.8%;
-  font-family: 'Mali', cursive;
+  font-family: 'Century Gothic";
   }
-header h1 a {text-decoration:none;color:#C60D25;}
+header h1 a {text-decoration:none;color:#a80824;}
+
+header p {
+font-family: "Gill Sans", "Verdana";
+}
 
 .wrapper {
   margin:auto;
@@ -35,17 +39,36 @@ header h1 a {text-decoration:none;color:#C60D25;}
 
 
 .zkousim {
-  padding:15px;
-  background:#35424a;
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 1.5em;
+  padding-left: 2em;
   color:#ffffff;
-  margin-bottom:10px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  list-style-type: none;
+  border-radius: 12px;
+  width: 75%;
+background: rgba(169,3,41,1);
+background: -moz-linear-gradient(top, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(169,3,41,1)), color-stop(44%, rgba(143,2,34,1)), color-stop(100%, rgba(109,0,25,1)));
+background: -webkit-linear-gradient(top, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+background: -o-linear-gradient(top, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+background: -ms-linear-gradient(top, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+background: linear-gradient(to bottom, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019', GradientType=0 );
 
+}
+
+.zkousim h2 {
+  font-family: "Century Gothic";
 }
 
 .zkousim a {
-  color:#C60D25;
-  text-decoration:none;
+  color: white;
+  font-weight: bold;
 }
+
 footer {
   margin: 30px auto;
   clear: both;
@@ -68,7 +91,7 @@ aside {
   position:absolute;
   background-color: black;
   float:left;
-  border-bottom:#C60D25 3px solid;
+  border-bottom:#a80824 3px solid;
  
 }
 
