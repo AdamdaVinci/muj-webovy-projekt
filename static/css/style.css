@@ -18,13 +18,12 @@ header {
 header h1 {
   margin-top:15%;
   border:black 1px solid;
-  background-color:#a80824;
+  background-color:#8d8b8b;
   opacity:0.9;
   width:35%;
   margin-left:32.8%;
-  font-family: 'Century Gothic";
   }
-header h1 a {text-decoration:none;color:#a80824;}
+header h1 a {text-decoration:none;color:#a80824; font-family: 'Century Gothic";}
 
 header p {
 font-family: "Gill Sans", "Verdana";
@@ -48,7 +47,7 @@ font-family: "Gill Sans", "Verdana";
   margin-bottom: 2em;
   list-style-type: none;
   border-radius: 12px;
-  width: 75%;
+  width: 100%;
 background: rgba(169,3,41,1);
 background: -moz-linear-gradient(top, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
 background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(169,3,41,1)), color-stop(44%, rgba(143,2,34,1)), color-stop(100%, rgba(109,0,25,1)));
