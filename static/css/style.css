@@ -23,7 +23,11 @@ header h1 {
   width:35%;
   margin-left:32.8%;
   }
-header h1 a {text-decoration:none;color:#a80824; font-family: 'Century Gothic";}
+header h1 a {
+  text-decoration:none;
+  color:#a80824;
+  font-family: 'Century Gothic";
+}
 
 header p {
 font-family: "Gill Sans", "Verdana";
