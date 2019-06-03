@@ -72,19 +72,29 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
   font-weight: bold;
 }
 
+footer img {
+  padding-left: 40%;
+  
+}
+
 footer {
   margin: 30px auto;
   clear: both;
   padding-top:5px;
+  width: 100%;
+  padding-bottom: 50px;
+  padding-left: 40%;
 
 }
 
 .page {
   margin-top:40%;
   width: 70%;
-  padding: 0px 10px;
+  padding: 0px 45%;
   padding-top:15%;
   font-size: 20px;
+  text-allign: justify;
+  
 }
 
 aside {
@@ -125,7 +135,7 @@ li a{color:#C60D25;text-decoration:none;}
 
 nav a {text-decoration: none; color:white;}
 nav a:hover {
-  color: #C60D25;
+  color: #a80824;
 }
 
 nav .active {
